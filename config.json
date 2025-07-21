@@ -1,0 +1,6 @@
+{
+  "target_hash": "$2b$12$rRsaetziH8FLX6TlGhwJpOHnopQsTgS.86ieVt8b5MVCmL1TO4aBe",
+  "_comment": "This target_hash is considered the password that is stored in the database",
+  "login_url": "http://localhost:8000/login",
+  "email": "admin@example.com"
+}
